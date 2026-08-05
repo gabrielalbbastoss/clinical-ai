@@ -1,0 +1,7 @@
+node_modules/ echo .env echo frontend/node_modules/ echo frontend/dist/
+node_modules/ echo .env echo frontend/node_modules/ echo frontend/dist/
+node_modules/ echo .env echo frontend/node_modules/ echo frontend/dist/
+node_modules/
+.env
+frontend/node_modules/
+frontend/dist/
